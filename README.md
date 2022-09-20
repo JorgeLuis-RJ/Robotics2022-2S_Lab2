@@ -30,5 +30,4 @@ Con la intención de publicar un mensaje en el topic /turtle1/cmd_vel alterando 
 
 Más adelante, se creo un archivo de Matlab para realizar las operaciones de suscripción al topic /turtle1/Pose, así obtener los valores actuales de la pose de la tortuga en la simulación.
 
-![PoseSubscriptionCode](https://github.com/JorgeLuis-RJ/Robotics2022-2S_Lab2/blob/main/Images Rob2022-2S_Lab2/PoseSubscriptionCode.png?raw=true)
-
+![PoseSubscriptionCode](https://github.com/JorgeLuis-RJ/Robotics2022-2S_Lab2/blob/main/Images_Rob2022-2S_Lab2/PoseSubscriptionCode.png?raw=true)
